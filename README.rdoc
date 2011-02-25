@@ -2,6 +2,8 @@
 
 Ruby bindings for JSLint using v8.
 
+The goal of this fork is to use JSHint (http://jshint.com/) to do the lint validation instead of plain old JSLint. JSHint is more flexible as it allows for different coding styles.
+
 See RDoc, online here:
 
 http://rdoc.info/github/ngauthier/jslintrb-v8/master/JSLint
